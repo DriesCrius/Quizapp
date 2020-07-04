@@ -1,20 +1,20 @@
 {
-  "name": "driescrius.github.io",
+  "name": "quizapp",
   "version": "1.0.0",
-  "description": "Demo Website",
+  "description": "Simple quiz app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DriesCrius/DriesCrius.github.io.git"
+    "url": "git+https://github.com/DriesCrius/Quizapp.git"
   },
   "author": "Gabor Ignacz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DriesCrius/DriesCrius.github.io/issues"
+    "url": "https://github.com/DriesCrius/Quizapp/issues"
   },
-  "homepage": "https://github.com/DriesCrius/DriesCrius.github.io#readme",
+  "homepage": "https://github.com/DriesCrius/Quizapp#readme",
   "dependencies": {}
 }

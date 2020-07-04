@@ -20,7 +20,7 @@ fetch(dataURL, fetchInitGet).then(
     })
 )
  */
-const dataURL = "https://api.jsonbin.io/b/5f00f1350bab551d2b6bfd42";
+const dataURL = "https://api.jsonbin.io/b/5f00f1350bab551d2b6bfd42/1";
 const htmlBody = document.querySelector("body");
 const fetchInitGet = {
     method: "GET",
