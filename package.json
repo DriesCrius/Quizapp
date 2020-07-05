@@ -4,7 +4,7 @@
   "description": "Simple quiz app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,7 @@
     "url": "https://github.com/DriesCrius/Quizapp/issues"
   },
   "homepage": "https://github.com/DriesCrius/Quizapp#readme",
-  "dependencies": {}
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }

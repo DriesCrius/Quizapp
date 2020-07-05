@@ -1,13 +1,37 @@
 {
-    "content": [
+    "questions": [
         {
-            "comment": "This is the first comment"
+            "id": "1",
+            "question": "This is the first question",
+            "option1": "This is the first option",
+            "option2": "This is the second option",
+            "option3": "This is the third option",
+            "option4": "This is the fourth option",
+            "correct": "option3",
+            "category": "Fun facts",
+            "selected": ""
         },
         {
-            "comment": "This is the second comment"
+            "id": "2",
+            "question": "This is the second question",
+            "option1": "This is the 2first option",
+            "option2": "This is the 2second option",
+            "option3": "This is the 2third option",
+            "option4": "This is the 2fourth option",
+            "correct": "option2",
+            "category": "History",
+            "selected": ""
         },
         {
-            "comment": "This is the third comment"
+            "id": "3",
+            "question": "This is the third question",
+            "option1": "This is the 3first option",
+            "option2": "This is the 3second option",
+            "option3": "This is the 3third option",
+            "option4": "This is the 3fourth option",
+            "correct": "option1",
+            "category": "Cars",
+            "selected": ""
         }
     ]
 }
